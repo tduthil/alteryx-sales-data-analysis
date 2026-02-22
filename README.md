@@ -46,14 +46,16 @@ What was the most profitable sub-category?
 
 Which day of the week is the most profitable?
 
-<img width="604" height="479" alt="image" src="https://github.com/user-attachments/assets/1d1c536e-bdcd-439b-a4c9-59c1ae6e4076" />
+<img width="190" height="150" alt="image" src="https://github.com/user-attachments/assets/333b2286-d76f-4918-b507-fd4cf8caacdc" />
+
 
 What were the Top 25 most profitable orders?
 
-<img width="190" height="150" alt="image" src="https://github.com/user-attachments/assets/333b2286-d76f-4918-b507-fd4cf8caacdc" />
+<img width="604" height="479" alt="image" src="https://github.com/user-attachments/assets/1d1c536e-bdcd-439b-a4c9-59c1ae6e4076" />
 
 
 
 💡 Key Takeaways
+
 Raw data from multiple sources, data preparation, structured documented workflow that produces a repeatable, automated analytical process to anwer multiple business questions efficiently.
 
