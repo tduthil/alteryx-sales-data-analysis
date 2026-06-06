@@ -3,7 +3,7 @@ Analyzing Sales Data with Alteryx
 Sales Analysis | Data Preparation & Workflow Automation
 
 📌 Project Overview
-This project simulates a real-world business scenario in which a data analyst is tasked to prepare, transform, and analyze sales data using Alteryx; answering a series of strategic business questions through a structured, documented workflow.
+This project I was tasked to prepare, transform, and analyze sales data using Alteryx; answering a series of strategic business questions through a structured, documented workflow.
 The project demonstrates end-to-end data pipeline construction: from raw file ingestion and cleaning, through joins and transformations, to aggregated outputs ready for business consumption.
 
 🎯 Business Objective
